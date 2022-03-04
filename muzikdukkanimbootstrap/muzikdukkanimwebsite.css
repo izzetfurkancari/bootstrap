@@ -1,0 +1,97 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    position:relative;
+    background-image: url('https://wallpaperbat.com/img/565087-kenneth-james-comares-light-grey-stripe-texture-light-grey-wallpaper-sample-2618-21362sam-the-home-depot.jpg');
+}
+.red-navbar {
+    font-size:x-large;
+    margin-left: 11px;
+}
+.white-navbar {
+    font-size: larger;
+    margin-left: 12px;
+}
+.grey-navbar {
+    font-size: larger;
+    margin-left: 12px;
+}
+.navbar-origin {
+    width: 100%;
+    height: 60px;
+    padding-top: 10px;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/5/743/616/metal-black-texture-scratches-wallpaper-preview.jpg');
+    
+}
+.header-bir {
+    margin-top:3%;
+    font-size: 60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(233, 60, 60);
+}
+#par-bir {
+    font-size: 22px;
+    text-align: center;
+
+}
+ul>li:nth-last-child(1) {
+    font-weight: bold;
+}
+ul>li:nth-child(2) {
+    font-weight: bold;
+}
+ul>li:nth-child(3n+0) {
+    font-weight: bold;
+}
+#ul-list {
+    list-style-position: inside;
+    text-align: center;
+
+}
+.huc-header {
+    text-align: center;
+    color: rgb(168, 168, 1);
+}
+#buton-bir {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+    background-color: rgb(32, 126, 233);
+    color: aliceblue;
+    font-size: x-large;
+    border-radius: 5px;
+    border: none;
+    height: 41px;
+    text-decoration: none;
+}
+.header-iki {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 2%;
+    font-size: 50px;
+}
+#hiki-header {
+    font-size: 40px;
+    color:rgb(226, 155, 62);
+    margin-left: 9%;
+}
+.tanim-bir {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.buton-iki {
+    border-radius: 10%;
+    font-size: small;
+    border-style: none;
+    color: rgb(255, 255, 255);
+    background-color: grey;
+    margin-bottom: 10px;
+    margin-left: 9px;
+}
+.col-4 {
+    background-color: white;
+    border-style:double;
+}
